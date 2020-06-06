@@ -1,3 +1,3 @@
-# Preprocessing
+# ImageProcessing
 
-Python notebooks to generate and process images
+A series of Python notebooks for image analysis and processing
