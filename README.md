@@ -1,3 +1,3 @@
 # ImageProcessing
 
-A series of Python notebooks for image analysis and processing
+A collection of Python notebooks to demonstrate image analysis and processing using OpenCV
